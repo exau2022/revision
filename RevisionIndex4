@@ -1,0 +1,31 @@
+QUESTION 1/
+toto
+
+QUESTION 2/
+du php
+- du html
+
+
+QUESTION 3/
+- blue
+
+
+QUESTION 4/
+- Un model ne contient que du code qui accède aux données
+- Un controlleur vérifie que les données reçues sont correctes
+
+QUESTION 5/
+- avant la fermeture de la balise body
+
+
+QUESTION 6/
+
+Comment lier 2 tables en SQL ?
+
+- créer une clé primaire sur la première table et une secondaire sur la deuxième , faire une
+liaison enter les deux (contrainte d intégrité référentielle)
+
+- Créer un champ avec le même nom dans les 2 tables, elles seront ainsi liées
+
+- Créer une clé primaire sur chaque table et les lier entre elles par une contrainte d intégrité 
+référentielle

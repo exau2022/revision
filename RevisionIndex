@@ -1,0 +1,55 @@
+//index 1
+<form action="machin.php" method="post">
+    <label for="name">Nom
+    <input type="text" name="name">
+    <label for="name">Prénom
+    <input type="text" name="prenom">
+    <label for="name">Mot de passe
+    <input type="password" name="password">
+    <button>Valider</button>
+</form>
+//Réponses questions formulaires
+1-$_POST['password']
+2-marchin.php
+3- htmlspecialchars()
+4-if(!empty($_POST['']))
+5-is_string($variable)
+6-$_GET
+
+
+//Reponse questions sur le POO
+En POO, PHP:
+1-Le tiret de 8 de construct(normalement deux tirets de 8)
+2-setter
+3-getter
+4-Encapsulation
+5-protected , public
+6- class Card extends JeuDeCarte et le constructeur du parent Parents::__construct(les propriétes de la classe parent)
+Exemple:
+class ParentClass {
+    public function __construct($arg) {
+        // Initialize a/some variable(s) based on $arg
+    }
+}
+
+class ChildClass extends ParentClass {
+    public function __construct($arg) {
+        // Let the parent handle construction. 
+        parent::__construct($arg); 
+    }
+}
+7-Non
+
+
+//
+1-Query String
+2-if ($_SERVER["REQUEST_METHOD"] = 'GET') {
+$GET['nomdelavariabledel'élementàrécupérer']
+//
+1-Model View Controller
+2-Model qui est responsable de la sauvegarde et l'extration des données
+3-View responsable de ce que voit l'utilisateur
+4-Controller qui est le seul composant qui interragit avec le model et la view.
+Il reçoit les requêtes de l'utilisateur
+5-Routeur 
+Un routeur : Correspondance entre un chemin (route) et une fonctionnalité (méthode d'un contrôleur).

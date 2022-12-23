@@ -1,0 +1,48 @@
+QUestion 1 
+Injection SQL
+
+Question 2
+-A enregistrer des données à durée limitée sous le nom donnees
+
+Question 3
+$tableau=[1,2,3,4,5];
+
+- for($i=0;$i<count($tableau);$i++){
+    $total+=$tableau[$i];
+    }
+
+$total affiche 15
+
+QUESTION 4:
+- taille
+
+QUESTION 5:
+- action et method
+
+
+QUESTION 6:
+- .green
+div.green
+- div
+#art div
+
+
+QUESTION 7:
+on peut réaliser autant d instanciations que l on souhaite d une même classe
+
+QUESTION 8:
+-l article sur lequel on a cliqué
+
+QUESTION 9 :
+- à faire une moyenne de plusieurs enregistrements
+
+QUESTION 10:
+Soit la requête Ajax suivante: 
+        
+       let tableau = ['Pierre','Paul','Jacques'];
+       fetch('donnees.php?data='+tableau)
+        
+    Le fichier donnees.php récupère quelles données ?
+    
+    - $_GET['data']
+    

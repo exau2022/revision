@@ -1,0 +1,70 @@
+Question 1
+ 2.<header>, <main>puis <footer>
+
+Question 2 
+<nav>
+
+Question 3 
+<main>
+
+Question 4
+4.<dl>, <dt> et <dd>
+
+Question 5
+    2.<thead>, <tbody> puis <tfoot>
+
+Question 6
+3.L'élément <thead>
+
+Question 7
+1.L'élément <caption>
+
+Question 8 
+L’élément <tr>
+
+Question 9
+.En utilisant <td colspan="2">
+
+Question 10 
+2.L’élément <address>
+
+CSS
+Question 1 -Quel est le sélecteur CSS pour modifier la graisse du texte?
+   
+    4.font-weight
+    
+Question 2 -Comment mettre en rouge les hyperliens de la navigation ? 
+   
+    4.nav a {color: red ;}
+    
+Question 3 -Quelle est l’instruction CSS à utiliser pour positionner une image de fond sur un élément? 
+    1.background-position
+   
+    
+Question 4 -Combien d’identifiants (id) peut-on utiliser pour un même élément HTML ?
+    1.Un seul
+    
+Question 5 -Combien de classes (class) peut-on utiliser pour un même élément HTML ? 
+    
+    3.Autant que l'on veut, en les séparant par des espaces
+    
+Question 6 -Quel sélecteur CSS permet de cibler l’élément HTML <section id="intro"></section> par son id ?
+   
+    3.#intro{}
+    
+Question 7 -Quel sélecteur CSS permet de cibler l’élément HTML <section class="container"></section> par sa classe?
+    2..container {}
+   
+Question 8 -Quelle propriété CSS utilise-t-on pour "coller" les bordures d'un tableau ?
+   
+    3.La propriété border-collapse
+    
+Question 9 –Quelle est la propriété CSS à utiliser pour passer une boîte en élément flexible?
+    
+    2.display: flex;
+    
+    
+Question 10 –Quelle est la propriété CSS à utiliser pour répartir équitablement les éléments flexibles sur l’axe principal, en les alignant sur les extrémités de la boîte?
+   
+    5.justify-content: space-between;
+    

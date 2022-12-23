@@ -1,0 +1,32 @@
+Question 1
+
+1- Bonjour...
+2- Bonjour toto
+3- Bonjour about
+4- bonjour
+
+Question 3
+
+1- instanciation ou creation d'un objet
+
+2- erreur* public function __construct(){
+            $vie=32;
+            $pulsations=61;
+        }
+    Absence de $this->
+    erreur *$this->pieds=[new Pied(),new Pied()];
+    erreur* $this->coeur=new Coeurs();
+    erreur* $corps=new CorpsHumain();
+    la classe abstraite CorpsHumain a été instanciée
+   
+
+3-constructeur
+
+4-Un constructeur vous permet d'initialiser les propriétés d'un objet lors de la création de l'objet.
+
+5- abstract mot clé permettant de définir une classe ou une méthode abstraite.
+Il permet de définir les méthodes ou propriétés sans les implémentées.
+
+6-une déclaration
+
+7-Elle ne possède pas de constructeur
